@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2fb8bc2b-93c5-4887-9efe-bea754cd195c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1aXh1Inq43kkRKFy3EOpnsU4haz" />
+  <component name="Pr,mnlktId" id="1aXh1Inq43kkRKFy3EOpnsU4haz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1586887629693</updated>
     </task>
+    <task id="LOCAL-00001" summary="bbbbbbjijojnnj">
+      <created>1586888293208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586888293208</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -47,6 +64,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bbbbbbjijojnnj" />
+    <option name="LAST_COMMIT_MESSAGE" value="bbbbbbjijojnnj" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="102" key="#Project_Structure" timestamp="1586887638735">
